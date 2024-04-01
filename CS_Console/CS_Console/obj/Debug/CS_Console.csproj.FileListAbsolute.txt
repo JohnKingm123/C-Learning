@@ -1,7 +1,0 @@
-D:\GitHub\C-Learning\CS_Console\CS_Console\bin\Debug\CS_Console.exe.config
-D:\GitHub\C-Learning\CS_Console\CS_Console\bin\Debug\CS_Console.exe
-D:\GitHub\C-Learning\CS_Console\CS_Console\bin\Debug\CS_Console.pdb
-D:\GitHub\C-Learning\CS_Console\CS_Console\obj\Debug\CS_Console.csproj.AssemblyReference.cache
-D:\GitHub\C-Learning\CS_Console\CS_Console\obj\Debug\CS_Console.csproj.CoreCompileInputs.cache
-D:\GitHub\C-Learning\CS_Console\CS_Console\obj\Debug\CS_Console.exe
-D:\GitHub\C-Learning\CS_Console\CS_Console\obj\Debug\CS_Console.pdb
